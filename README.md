@@ -6,7 +6,7 @@ About me:
 
 💻 I love learning new things, tecnologies, software... anything that improve me how developer. 
 
-🥇 Future Junior fullstack web developper: by FactoriaF5
+🥇  I’m currently learning Junior fullstack web developper: FactoriaF5
 
 📖 “Stop learning, die young.
     Keep learning, stay young.”
