@@ -1,8 +1,9 @@
 ### Hi 🖐️ 
 
-I'm David Daza or (@drdaza) for the friends :D 
+## I'm David Daza or (@drdaza) for the friends :D 
 
-About me:
+
+### About me:
 
 💻 I love learning new things, tecnologies, software... anything that improve me how developer. 
 
