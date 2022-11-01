@@ -16,3 +16,11 @@
 🏅 In my free time: i'm calisthenics athlete and handbalancer, personal development entuciast and a passionate about books.
 
 
+
+
+
+
+
+
+### Readme Credits:
+Images: <a target="_blank" href="https://labs.openai.com/">DALL-E</a>
