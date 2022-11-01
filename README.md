@@ -11,5 +11,5 @@ About me:
 📖 “Stop learning, die young.
     Keep learning, stay young.”
     
-🏅 In my free time: i'm calisthenics athlete and handbalancer, personal development entuciast and a great apasionate by the books.
+🏅 In my free time: i'm calisthenics athlete and handbalancer, personal development entuciast and a passionate about books.
 
