@@ -15,6 +15,12 @@
     
 🏅 In my free time: i'm calisthenics athlete and handbalancer, personal development entuciast and a passionate about books.
 
+### Contact me:
+<a target="_blank" href="https://twitter.com/davidr_daza">Twitter</a>
+
+<a target="_blank" href="www.linkedin.com/in/dr-daza">Linkedin</a>
+
+
 
 
 
