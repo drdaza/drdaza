@@ -1,4 +1,5 @@
 ### Hi 🖐️ 
+<img src="https://github.com/drdaza/drdaza/blob/main/DALL·E 2022-11-01 16.06.00 - a programmer in his computer digital art.png" width="250" height="250" />
 
 ## I'm David Daza or (@drdaza) for the friends :D 
 
