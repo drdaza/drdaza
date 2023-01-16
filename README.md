@@ -20,6 +20,11 @@
 
 <a target="_blank" href="www.linkedin.com/in/dr-daza">Linkedin</a>
 
+### My Code Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drdaza)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drdaza)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
