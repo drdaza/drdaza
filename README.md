@@ -16,14 +16,3 @@
 ![drdaza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=drdaza&theme=dark&hide_border=true)
 
 ![drdaza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drdaza&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-
-
-
-
-
-
-
-
-### Readme Credits:
-Images: <a target="_blank" href="https://labs.openai.com/">DALL-E</a>
