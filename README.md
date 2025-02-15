@@ -7,7 +7,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,java,vue,spring)](https://skillicons.dev)
 
 ### Contact me:
-<a target="_blank" href="https://twitter.com/davidr_daza">Twitter</a>
 
 <a target="_blank" href="www.linkedin.com/in/dr-daza">Linkedin</a>
 
